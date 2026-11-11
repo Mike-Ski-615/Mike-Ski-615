@@ -1,0 +1,113 @@
+{
+  "coloredImage": true,
+  "removeBackground": false,
+  "imageScale": 1,
+  "backgroundColor": "#ffffff, #0d1117",
+  "separatorColor": "#d0d7de, #30363d",
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "titleColor": {
+        "text": "#0969da, #58a6ff",
+        "line": "#8c959f, #6e7681"
+      },
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Mike Ski",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "Role",
+          "value": "Full-stack Engineer",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "Focus",
+          "value": "Real-time systems · product UX · graphics",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "Stack",
+          "value": "TypeScript · React · Next.js · Node.js · Rust · Java",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "Status",
+          "value": "Open to frontend / full-stack roles",
+          "keyColor": "#1a7f37, #3fb950",
+          "valueColor": "#1f2328, #e6edf3"
+        }
+      ]
+    },
+    {
+      "title": "- Selected work",
+      "titleColor": {
+        "text": "#0969da, #58a6ff",
+        "line": "#8c959f, #6e7681"
+      },
+      "fields": [
+        {
+          "key": "Collaboration",
+          "value": "nextjs-collaborative-editor",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "Protocols",
+          "value": "hermes-ws — RFC 6455 WebSocket server",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "Graphics",
+          "value": "caldera — Vulkan / GLSL for Minecraft",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "titleColor": {
+        "text": "#0969da, #58a6ff",
+        "line": "#8c959f, #6e7681"
+      },
+      "fields": [
+        {
+          "key": "GitHub",
+          "value": "github.com/Mike-Ski-615",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "Email",
+          "value": "gvjk0631@gmail.com",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "titleColor": {
+      "text": "#0969da, #58a6ff",
+      "line": "#8c959f, #6e7681"
+    },
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "Followers", "value": "{{followers}}" }
+      }
+    ]
+  }
+}
