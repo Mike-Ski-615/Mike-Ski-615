@@ -36,9 +36,10 @@ I like owning the whole path — from the interface users see to the protocols a
 
 | Project | Why it stands out | Stack |
 | :--- | :--- | :--- |
+| **[Next.js Collaborative Editor](https://github.com/Mike-Ski-615/nextjs-collaborative-editor)** | A real-time document editor with multiplayer presence, threaded comments, version history, authentication, and a type-safe API. | Next.js 16 · Tiptap · Liveblocks · tRPC · Prisma |
 | **[Next.js Authentication Scaffold](https://github.com/Mike-Ski-615/Next.js-Authentication-Scaffold)** | A modular authentication system covering email/phone OTP, passkeys, wallet connections, JWT sessions, and database-backed user flows. | Next.js 16 · React 19 · Prisma · PostgreSQL |
+| **[hermes-ws](https://github.com/Mike-Ski-615/hermes-ws)** | A dependency-light WebSocket server built from scratch, including handshakes, frame codecs, control frames, TCP packet handling, and real integration tests. | TypeScript · Node.js · WebSocket · Vite |
 | **[Caldera](https://github.com/Mike-Ski-615/caldera)** | A native Vulkan/GLSL shader pipeline for Minecraft with cascaded shadows, volumetric clouds, atmosphere, and screen-space water reflections. | Java · Vulkan · GLSL · Fabric |
-| **[hermes-ws](https://github.com/Mike-Ski-615/hermes-ws)** | A dependency-light WebSocket server built from scratch, including handshakes, frame codecs, control frames, TCP fragmentation, and real integration tests. | TypeScript · Node.js · WebSocket · Vite |
 | **[3D-Face](https://github.com/Mike-Ski-615/3D-Face)** | Portrait depth textures reconstructed into an animated point cloud with custom vertex and fragment shaders. | React Three Fiber · Three.js · GLSL · GSAP |
 | **[TanStack Start Auth](https://github.com/Mike-Ski-615/tanstack-start-auth)** | A full-stack authentication example with better-auth, email OTP, protected routes, database sessions, and Prisma-backed persistence. | TanStack Start · better-auth · Prisma · PostgreSQL |
 
