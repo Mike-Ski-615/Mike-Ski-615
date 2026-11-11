@@ -29,7 +29,7 @@ I like owning the whole path — from the interface users see to the protocols a
 | Engineering area | What I work on |
 | :--- | :--- |
 | **Product full-stack** | Building complete flows with Next.js, React, TypeScript, tRPC, Prisma, and PostgreSQL — including auth, permissions, forms, and data-heavy interfaces. |
-| **Real-time & protocols** | Collaborative editing with Y.js CRDT, WebSocket infrastructure, and protocol-level implementations such as RFC 6455 handshakes and frame handling. |
+| **Real-time & protocols** | Liveblocks and Tiptap collaboration, WebSocket infrastructure, and protocol-level implementations such as RFC 6455 handshakes and frame handling. |
 | **Graphics & interaction** | Vulkan/GLSL rendering, Three.js point clouds, shader-driven transitions, and interfaces where performance and visual feedback matter. |
 
 ## Selected work
