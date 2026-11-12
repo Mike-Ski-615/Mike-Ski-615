@@ -92,6 +92,39 @@
           "valueColor": "#1f2328, #e6edf3"
         }
       ]
+    },
+    {
+      "title": "- How I build",
+      "titleColor": {
+        "text": "#0969da, #58a6ff",
+        "line": "#8c959f, #6e7681"
+      },
+      "fields": [
+        {
+          "key": "◆ Product",
+          "value": "Start with the user journey",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "◇ Systems",
+          "value": "Clear boundaries over clever abstractions",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "▸ Proof",
+          "value": "Demos, tests, and documented trade-offs",
+          "keyColor": "#0550ae, #79c0ff",
+          "valueColor": "#1f2328, #e6edf3"
+        },
+        {
+          "key": "● Open to",
+          "value": "Frontend / full-stack roles",
+          "keyColor": "#1a7f37, #3fb950",
+          "valueColor": "#1f2328, #e6edf3"
+        }
+      ]
     }
   ],
   "stats": {
