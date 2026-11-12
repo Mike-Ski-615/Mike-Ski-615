@@ -1,10 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/jeantimex/neofetch-profile">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Mike-Ski-615&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FMike-Ski-615%2FMike-Ski-615%2Fmain%2Fneofetch.json%3Fv%3D6&v=6">
-    <img alt="Mike Ski — terminal-style GitHub profile" src="https://neofetch-profile.vercel.app/api?username=Mike-Ski-615&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FMike-Ski-615%2FMike-Ski-615%2Fmain%2Fneofetch.json%3Fv%3D6&v=6" width="900">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
+  <img alt="Mike Ski — terminal-style GitHub profile" src="assets/neofetch-light.svg" width="900">
+</picture>
 
 </div>
